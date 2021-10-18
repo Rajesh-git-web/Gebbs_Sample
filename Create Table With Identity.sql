@@ -118,6 +118,3 @@ FROM	Trainee
 WHERE	LEN(Full_Name) = (SELECT MAX(LEN(Full_Name)) FROM Trainee)
 
 
---Drop Database
-DROP DATABASE Fresher_Training_Mngt
-GO
