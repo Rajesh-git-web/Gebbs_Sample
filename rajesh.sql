@@ -1,3 +1,9 @@
+CREATE DATABASE abc_xyz
+GO
+
+USE abc_xyz
+GO
+
 CREATE TABLE dbo.Employee (
 	Emp_ID int IDENTITY(1, 1),
 	Emp_Name varchar(100),
