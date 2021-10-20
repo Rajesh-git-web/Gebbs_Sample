@@ -1,3 +1,6 @@
+SELECT @@SERVERNAME AS 'Rajesh'
+GO
+
 CREATE DATABASE abc_xyz
 GO
 
