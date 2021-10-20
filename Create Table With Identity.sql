@@ -1,5 +1,4 @@
-SELECT @@SERVERNAME AS 'Rajesh'
-GO
+
 
 CREATE DATABASE Gebbs_Sample_Mngt
 GO
