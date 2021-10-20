@@ -1,7 +1,7 @@
-CREATE DATABASE Fresher_Training_Mngt
+CREATE DATABASE Gebbs_Sample_Mngt
 GO
 
-USE Fresher_Training_Mngt
+USE Gebbs_Sample_Mngt
 GO
 
 --Q1: Create the tables
