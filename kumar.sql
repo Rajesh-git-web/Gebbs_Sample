@@ -1,7 +1,7 @@
-CREATE DATABASE 123_xyz
+CREATE DATABASE XYZ_xyz
 GO
 
-USE 123_xyz
+USE XYZ_xyz
 GO
 
 CREATE TABLE dbo.Employee (
