@@ -9,11 +9,4 @@ CREATE TABLE dbo.Employee (
 	Emp_Name varchar(100),
 	Emp_Salary decimal(10, 2)
 )
-
-CREATE TABLE dbo.Employee_Audit2 (
-	Emp_ID int,
-	Emp_Name varchar(100),
-	Emp_Salary decimal(10, 2),
-	Audit_Action varchar(100),
-	Audit_Timestamp datetime
-)
+GO
