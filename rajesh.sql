@@ -14,9 +14,9 @@ CREATE TABLE dbo.Employee (
 
 CREATE TABLE dbo.Employee_Audit2 (
 	Emp_ID int,
-	Emp_Name varchar(100),
+	Emp_Name varchar(110),
 	Emp_Salary decimal(10, 2),
-	Audit_Action varchar(100),
+	Audit_Action varchar(110),
 	Audit_Timestamp datetime
 )
 GO
