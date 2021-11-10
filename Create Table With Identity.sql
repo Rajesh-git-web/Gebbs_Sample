@@ -19,7 +19,7 @@ CREATE TABLE Trainee(
 	ET_Gmath		int,
 	ET_English		int,
 	Training_Class		char(10),
-	Evaluation_Notes	nvarchar(500)
+	Evaluation_Notes	nvarchar(501)
 )
 GO
 
